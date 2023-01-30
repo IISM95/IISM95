@@ -30,6 +30,17 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 </br>
 
+## Участвовал в разработке следующих проектов:
+Название проекта "Электроникс"
+
+Магазин электронных товаров
+
+GitHub репозиторий проекта:
+
+- [frontend](https://github.com/IISM95/marketplace_frontend)
+- [backend](https://github.com/IISM95/marketplace_backend)
+</br>
+
 ---
 
 <h2>Связь со мной:</h2>
