@@ -32,6 +32,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 </br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterYBN&theme=&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</br>
 ## Участвовал в разработке следующих проектов:
 Название проекта "Электроникс"
 
@@ -49,3 +51,5 @@ GitHub репозиторий проекта:
 
 
 - [Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
+
+
