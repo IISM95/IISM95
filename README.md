@@ -1,5 +1,7 @@
 # Приветствую вас! Меня зовут Ислам и я Frontend-разработчик
 
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/i.s_095?)
+
 ## Мой стек технологий, с которым я работал:
 <ul>
 <li>HTML - CSS - JavaScript;</li>
